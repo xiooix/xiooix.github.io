@@ -11,3 +11,10 @@ title: markdown
   >Exemplo: [oocn.eu](http://oocn.eu){:target="_blank"}
 
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
