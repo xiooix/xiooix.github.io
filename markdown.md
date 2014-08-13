@@ -4,10 +4,10 @@ title: markdown
 ---
 
 
-` links`
+###Links
 
-  $ [text](href){:target="_blank"}
-  
-  > [oocn.eu](http://oocn.eu){:target="_blank"}
+  >`[text](href){:target="_blank"}`
+  >
+  >Exemplo: [oocn.eu](http://oocn.eu){:target="_blank"}
 
 
