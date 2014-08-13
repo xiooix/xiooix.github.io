@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Google
+title: google.com
 ---
 
 ### Analytics
