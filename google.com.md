@@ -9,5 +9,5 @@ title: google.com
 
 ### email
 
-[](gmail.com)
+[gmail.com](https://gmail.com){:target="_blank"}
 
