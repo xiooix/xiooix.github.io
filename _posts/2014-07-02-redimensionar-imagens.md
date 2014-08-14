@@ -20,4 +20,4 @@ Para utilizares a aplicação da [picresize], tens que fazer upload da imagem, o
 
 [picresize]:http://www.picresize.com
 [snagy]:http://www.snag.gy
-[2]{target="_blank"}:http://www.snag.gy
+[2]:http://www.snag.gy:
