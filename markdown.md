@@ -8,7 +8,10 @@ title: markdown
 
   >`[text](href){:target="_blank"}`
   >
-  >Exemplo: [oocn.eu](http://oocn.eu){:target="_blank"}
+  >Exemplo: 
+  > * `[oocn.eu](http://oocn.eu){:target="_blank"}` [oocn.eu](http://oocn.eu){:target="_blank"}
+  > * `[github]{:target="_blank"}` [github]{:target="_blank"}
+  > * `[github]:https://help.github.com/articles/markdown-basics`
 
 ###Highlighting 
 `javascript
@@ -26,4 +29,14 @@ function fancyAlert(arg) {
   }
 }
 ```
->
+>[]{:target="_blank"}
+
+###Referências 
+
+>[github]{:target="_blank"}
+>[dillinger]{:target="_blank"}
+>[stackedit]{:target="_blank"}
+
+[github]:https://help.github.com/articles/markdown-basics
+[dillinger]:http://dillinger.io
+[stackedit]:https://stackedit.io
