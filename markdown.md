@@ -43,7 +43,9 @@ function fancyAlert(arg) {
   >[github]{:target="_blank"}
   >[dillinger]{:target="_blank"}
   >[stackedit]{:target="_blank"}
+  >[markdown]{:target="_blank"}
 
 [github]:https://help.github.com/articles/markdown-basics
 [dillinger]:http://dillinger.io
 [stackedit]:https://stackedit.io
+[markdown]:https://guides.github.com/features/mastering-markdown
