@@ -12,6 +12,7 @@ title: markdown
   > * `[oocn.eu](http://oocn.eu){:target="_blank"}` [oocn.eu](http://oocn.eu){:target="_blank"}
   > * `[github]{:target="_blank"}` [github]{:target="_blank"}
   > * `[github]:https://help.github.com/articles/markdown-basics`
+  > * `>[]{:target="_blank"}`
 
 ###Highlighting 
 `javascript
@@ -29,7 +30,7 @@ function fancyAlert(arg) {
   }
 }
 ```
->[]{:target="_blank"}
+
 
 ###Referências 
 
