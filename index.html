@@ -5,6 +5,7 @@ title: "Home"
 
 {% for post in paginator.posts %}
 <div class="entry">
+<hr>
 <div class="entry-content"><h2 class="entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h2></div>
 <hr>
 <a class="entry-thumb" href="{{ post.source }}" title="Visit {{ post.title }}" target="_blank">
@@ -18,6 +19,7 @@ title: "Home"
 <p class="entry-date">{{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 </div>
+<hr>
 {% endfor %}
 
 {% include pagination.html %}
