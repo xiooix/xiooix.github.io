@@ -5,9 +5,8 @@ title: "Home"
 
 {% for post in paginator.posts %}
 <div class="entry">
-<div class="entry-content">
-<h2 class="entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-</div>
+<div class="entry-content"><h2 class="entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h2></div>
+<hr>
 <a class="entry-thumb" href="{{ post.source }}" title="Visit {{ post.title }}" target="_blank">
 {{ post.content }}
 <span class="icon icon-forward entry-icon"></span>
