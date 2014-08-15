@@ -18,7 +18,7 @@ title: markdown
 
   >If you want to embed images, this is how you do it:
   >`![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)`
-  >![oocn logo](http://web.oocn.eu/assets/logo.png)
+  >`![oocn logo](http://web.oocn.eu/assets/logo.png)`![oocn logo](http://web.oocn.eu/assets/logo.png)
 
 ###Highlighting 
 `javascript
