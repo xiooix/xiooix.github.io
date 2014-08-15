@@ -5,12 +5,12 @@ title: "Home"
 
 {% for post in paginator.posts %}
 <div class="entry">
+<a href="{{ post.url }}">
+<small>{{ post.title }}</small></a>
 <a class="entry-thumb" href="{{ post.source }}" title="Visit {{ post.title }}" target="_blank">
 {{ post.content }}
 <span class="icon icon-forward entry-icon"></span>
 </a>
-<a href="{{ post.url }}">
-<small>{{ post.title }}</small></a>
 <div class="entry-content">
 <h2 class="entry-title">
 <a href="{{ post.url }}">{{ post.title }}</a>
